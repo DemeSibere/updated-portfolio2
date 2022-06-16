@@ -1,0 +1,91 @@
+
+body{
+    background-color: 0068ff;
+    background-size: auto;
+}
+
+.bgimage {
+    height:100vh;
+    background-size:cover;
+    position:relative;
+}
+.butt {
+    margin-left:50%;
+    margin-bottom: 0%;
+
+}
+.pageone{
+    background-image:url(back.jpg);
+}
+.bodypage{
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+}
+/* text css above hero image*/ 
+.hero_title {
+    font-size: 4.5rem;
+}
+.hero_desc {
+    font-size: 2rem;
+}
+
+.hero-text {
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+}
+
+.imageAboutPage {
+    width: 100%;
+}
+
+.navbarScroll.navbarDark {
+    background-color: black;
+}
+
+/* footer styling */
+#footer content3{
+    margin-left:35%;
+    margin-top:-50px;
+
+}
+#footer {
+    background-color: #808080;
+    height: 50px;
+    text-align: center;
+}
+
+#contact {
+    padding-bottom: 4rem;
+}
+.card-body{
+    background-image: url("./imag2.jpg");
+}
+
+  img { 
+   transition: all .2s ease-in-out; 
+}
+  img:hover { 
+       transform: scale(1.5); 
+    }
+    .col-lg-4 {
+        transition: all 0.2s ease-in-out;
+      }
+      
+      .col-lg-4:hover {
+        transform: scale(1.5);
+      }
+      .card-title {
+          color:white;
+      }
+
+      .card-text li {
+        color:white;
+    }
