@@ -47,6 +47,9 @@
     width: 100%;
 }
 
+#about {
+    margin-left:10%;
+}
 
 .navbarScroll.navbarDark {
     background-color: black;
@@ -86,6 +89,8 @@
       }
       .card-title {
           color:white;
+          margin-left:10%;
+
       }
 
       .card-text li {
