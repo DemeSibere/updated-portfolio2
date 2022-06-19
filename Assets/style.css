@@ -49,6 +49,10 @@
 
 #about {
     margin-left:10%;
+
+}
+a:link { 
+    color: white; 
 }
 #contact{
     margin-left:35%;
@@ -101,14 +105,13 @@
     }
 .pageone{
     background-image:url(back.jpg);
-    height: 100vh;
+    height: 105vh;
     width: 100vw;
 } 
 
 .bodypage{
-    position: relative;
+    position: absolute;
     top: 50%;
-    border: solid red 3px;
     height: 300px;
     width: 100%;
     display: flex;
