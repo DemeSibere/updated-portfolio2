@@ -65,8 +65,8 @@ THEN I am presented with a responsive layout that adapts to my viewport
 
 This project has been deployed to GitHub pages.
 
-* GitHub Repository: https://github.com/DemeSibere/updated-portodolio-page
-* Deployed GitHub Page: https://demesibere.github.io/updated-portodolio-page/
+* GitHub Repository: https://github.com/DemeSibere/updated-portfolio2
+* Deployed GitHub Page: https://demesibere.github.io/updated-portfolio2/
 * Portofolio Demo with local storage:
 ![The following animation shows the web application's appearance and functionality portfolio demo](./Assets/updated-portfolio-page.gif)
 
